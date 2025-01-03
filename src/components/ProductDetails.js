@@ -7,7 +7,7 @@ export  function ProductDetails() {
   return (
     <div>
       Product Details
-      <button onClick={handlesubmit}>Back</button>
+      <button  onClick={handlesubmit}>Back</button>
     </div>
   )
 }
